@@ -1,0 +1,7 @@
+{
+  "name": "Synapse AI - Knowledge Platform",
+  "description": "Free-tier, production-ready AI Knowledge Hub for documents, YouTube videos, RAG semantic search, quizzes, flashcards, and study assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
