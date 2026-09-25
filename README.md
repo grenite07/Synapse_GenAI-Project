@@ -14,6 +14,8 @@
 | :---: | :---: |
 | *AI-generated MCQs, True/False, and instant explanations.* | *Active recall mastery tracking with 3D card flipping.* |
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/54ad6fdd-3371-4f75-a425-ae4610ad4b53" />
+
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/b40b2bc1-562b-4df3-8a0b-24b5de68fd0c" />
 <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/83b3522c-25fb-4946-b38c-22c77f9897eb" />
 <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/b1568a74-510f-4a3d-8b38-70398d7409cd" />
