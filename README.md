@@ -4,6 +4,9 @@
 
 ---
 
+YOU CAN SEE THE WEB LINK FROM HERE.
+https://synapse-genai-project.onrender.com/
+
 ## 📸 Visual Overview & Interface
 
 | **Academic & Technical Dashboard** | **Conversational RAG Chat & Grounding** |
